@@ -1,5 +1,4 @@
-# Título
-Flow1
+# Flow 1 con NodeRed
 
 ## Introducción
 Para este ejercicio solo se mostrará la hora del sistema desde la operación TimeStamp
